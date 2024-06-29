@@ -1,0 +1,48 @@
+body{
+    background: linear-gradient(to right, #003A80, #005ABA);
+}
+
+
+.paletaS{
+    background-color: white;
+    width: 400px;
+    height: 450px;
+    border-radius: 10px;
+}
+
+.loginBtnS{
+    margin-top: 20px;
+    width: 360px;
+    font-size: 20px;
+    font-weight: bold;
+    background: linear-gradient(to right, #003A80, #005ABA);
+    color: white;
+}
+
+
+
+.formS{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30%;
+    align-items: center;
+    gap: 15px;
+}
+
+.inputS{
+    width: 350px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0.5px solid #D2D1D1;
+}
+
+.inputS::placeholder{
+    color: #7e7b7b;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+p{
+    font-weight: bold;
+    
+}
